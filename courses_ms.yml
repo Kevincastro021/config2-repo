@@ -1,4 +1,4 @@
 server:
   port: 8081
 
-  mensaje: "hola estas en cursos"
+mensaje: "hola estas en cursos"
